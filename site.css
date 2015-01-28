@@ -1,8 +1,26 @@
+h1 { 
+	font-family: "Segoe UI";
+	margin-left: 0px;
+}
+
+h2 {
+	font-family: "Segoe UI";
+	margin-left: 5px;
+}
+
+h3 {
+	font-family: "Segoe UI";
+	margin: 5px;
+	margin-left: 20px;
+}
+
 p {
 	font-family: "Segoe UI";
 	color: #000000;
 	margin: 5px;
+	width:400px;
 }
+
 body { 
 	background-image: url("wavegrid_@2X.png");
 	margin: 0px !important;
@@ -16,22 +34,6 @@ a:hover {
 	font-family: "Segoe UI";  
 	color: #336699; 
 	text-decoration: underline
-}
-
-h1 { 
-	font-family: "Segoe UI";
-	text-align: center;
-}
-
-h2 {
-	font-family: "Segoe UI";
-	margin-left: 5px;
-}
-
-h3 {
-	font-family: "Segoe UI";
-	margin: 5px;
-	margin-left: 20px;
 }
 
 img { 
