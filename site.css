@@ -32,14 +32,25 @@ body {
 
 a {    
 	font-family: "Courier New";
-	
-	text-decoration: none
+	text-decoration: none;
 }
 
 a:hover {  
 	font-family: "Courier New";  
-	color: #336699; 
+	color: #00BCB5; 
 	text-decoration: underline
+}
+
+a:visited {
+	font-family: "Courier New";
+	color: #005350;
+	text-decoration: none;
+}
+
+a:active {
+	font-family: "Courier New";
+	color: #006F6B;
+	text-decoration: none;
 }
 
 img { 
