@@ -7,7 +7,7 @@ h1 {
 h2 {
 	font-family: "Courier New";
 	margin-left: 5px;
-	}
+}
 
 h3 {
 	font-family: "Courier New";
@@ -21,7 +21,6 @@ p {
 	color: #000000;
 	margin: 5px;
 	width:400px;
-	
 	font-style: italic;
 }
 
@@ -54,6 +53,6 @@ a:active {
 }
 
 img { 
-    margin-left: 200px
+    margin-left: 200px;
     
 }
