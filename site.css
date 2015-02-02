@@ -1,25 +1,45 @@
 h1 { 
 	font-family: "Courier New";
-	margin-left: 0px;
+	margin: 5px;
+	margin-left: 50px;
 	
 }
 
 h2 {
 	font-family: "Courier New";
-	margin-left: 5px;
+	margin:5px;
+	margin-left: 50px;
+
 }
 
 h3 {
 	font-family: "Courier New";
 	margin: 5px;
-	margin-left: 20px;
-	
+	margin-left: 50px;
+	width:500px;
+}
+
+h4 {
+	font-family: "Courier New";
+	margin: 5px;
+	margin-left: 50px;
+	width:500px;
 }
 
 p {
 	font-family: "Courier New";
 	color: #000000;
-	margin: 5px;
+	margin:5px;
+	margin-left: 50px;
+	width:400px;
+	font-style: italic;
+}
+
+ul {
+	font-family: "Courier New";
+	color: #000000;
+	margin:5px;
+	margin-left: 50px;
 	width:400px;
 	font-style: italic;
 }
@@ -33,12 +53,14 @@ a {
 	font-family: "Courier New";
 	text-decoration: none;
 	color: #;
+	margin-left: 50px;
 }
 
 a:hover {  
 	font-family: "Courier New";  
 	color: #00BCB5; 
-	text-decoration: underline
+	text-decoration: underline;
+
 }
 
 a:visited {
@@ -54,6 +76,6 @@ a:active {
 }
 
 img { 
-    margin-left: 20px;
+    margin-left: 50px;
     
 }
