@@ -9,6 +9,7 @@ h2 {
 	font-family: "Courier New";
 	margin:5px;
 	margin-left: 50px;
+	font-style: bold;
 
 }
 
@@ -17,13 +18,7 @@ h3 {
 	margin: 5px;
 	margin-left: 50px;
 	width:500px;
-}
-
-h4 {
-	font-family: "Courier New";
-	margin: 5px;
-	margin-left: 50px;
-	width:500px;
+	font-style: none;
 }
 
 p {
@@ -52,26 +47,26 @@ body {
 a {    
 	font-family: "Courier New";
 	text-decoration: none;
-	color: #;
+	color: #361356;
 	margin-left: 50px;
 }
 
 a:hover {  
 	font-family: "Courier New";  
-	color: #00BCB5; 
+	color: #6F4D8F; 
 	text-decoration: underline;
 
 }
 
 a:visited {
 	font-family: "Courier New";
-	color: #005350;
+	color: #477187;
 	text-decoration: none;
 }
 
 a:active {
 	font-family: "Courier New";
-	color: #006F6B;
+	color: #9277AC;
 	text-decoration: none;
 }
 
