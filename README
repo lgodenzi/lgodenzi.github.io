@@ -3,6 +3,23 @@ Comp 20 project 1: personal web page.
 Constructed by Lani Godenzi (CS: lgoden01, github: lgodenzi)
 Page can be acessed at http://www.cs.tufts.edu/~lgoden01/ or http://lgodenzi.github.io
 
+HTML verification:
+
+index.html - PASSED
+http://validator.w3.org/check?uri=http%3A%2F%2Flgodenzi.github.io%2Findex.html
+
+bio.html - PASSED
+http://validator.w3.org/check?uri=http%3A%2F%2Flgodenzi.github.io%2Fbio.html
+
+resume.html - PASSED
+http://validator.w3.org/check?uri=http%3A%2F%2Flgodenzi.github.io%2Fresume.html
+
+CSS verification: 
+
+site.css - PASSED
+http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Flgodenzi.github.io%2Findex.html&profile=css3&usermedium=all&warning=1&vextwarning=
+
+
 Git and CS account setup help from Alice Lee('17) and Arthur Berman('16). All html and css code written by myself (Lani Godenzi). Some CSS reference from w3schools.com specifically about the <a> selectors :active, :hover, and :visited. Background image from subtlepatterns.com/knitted-sweater/ by Victora Spahn.
 
 Project took ~6hrs to complete, including setup of Github account and download of Git and virtual machine (mostly done during the superbowl).
