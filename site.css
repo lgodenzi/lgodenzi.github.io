@@ -9,8 +9,6 @@ h2 {
 	font-family: "Courier New";
 	margin:5px;
 	margin-left: 50px;
-	font-style: bold;
-
 }
 
 h3 {
@@ -18,7 +16,6 @@ h3 {
 	margin: 5px;
 	margin-left: 50px;
 	width:500px;
-	font-style: none;
 }
 
 p {
