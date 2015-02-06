@@ -1,8 +1,20 @@
+body {
+	padding-left:15%;
+	background-image: url("knitting250px.png");
+	margin: 0px !important;
+}
+
+#header {
+	width: 400px;
+	background-color: #9974AA;
+    opacity: .6;
+    padding-right: 50px;
+}
 h1 { 
 	font-family: "Courier New";
 	margin: 5px;
 	margin-left: 50px;
-	
+	opacity: 1;
 }
 
 h2 {
@@ -36,11 +48,6 @@ ul {
 	font-style: italic;
 }
 
-body { 
-	background-image: url("knitting250px.png");
-	margin: 0px !important;
-}
-
 a {    
 	font-family: "Courier New";
 	text-decoration: none;
@@ -50,7 +57,7 @@ a {
 
 a:hover {  
 	font-family: "Courier New";  
-	color: #6F4D8F; 
+	color: #3A1356; 
 	text-decoration: underline;
 
 }
@@ -72,9 +79,10 @@ img {
     
 }
 
-.credit {
+#credit {
 	text-align: left;
 	font-size: 8px;
 	position: static;
 	bottom: 5px;
+
 }
