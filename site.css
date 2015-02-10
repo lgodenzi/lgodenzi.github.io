@@ -1,14 +1,19 @@
 body {
-	padding-left:20%;
+	
 	background-image: url("knitting250px.png");
 	margin: 0px !important;
 }
 
+#main {
+	width: 50%;
+	margin: 0 auto;
+}
+
 #header {
-	width: 400px;
+	width: 50%;
 	background-color: #9974AA;
     opacity: .6;
-    padding-right: 65px;
+    
 }
 h1 { 
 	font-family: "Courier New";
